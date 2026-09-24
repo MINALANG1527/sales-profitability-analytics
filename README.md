@@ -92,6 +92,7 @@ sales-profitability-analytics/
 │   └── Sales & Profitability Analytics Dashboard.pbix
 ├── dashboard-preview.png
 └── README.md
+```
 
 ## Skills Demonstrated
 
@@ -107,7 +108,7 @@ sales-profitability-analytics/
 - Profitability analysis
 
 ```
-
+```
 ## Author
 
 **Al-Sani M. Minalang**
