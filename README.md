@@ -47,6 +47,12 @@ This project analyzes retail sales data from 2014–2017 to understand:
 - **DAX** – calculated measures and time-based analysis
 - **MySQL / SQL** – planned database-based analysis
 
+## Project Files
+
+- [Excel Analysis](excel/Sales%20%26%20Profitability%20Analysis.xlsx) – Excel-based analysis, calculations, and exploratory insights
+- [Power BI Dashboard](powerbi/Sales%20%26%20Profitability%20Analytics%20Dashboard.pbix) – Interactive Power BI dashboard
+- [Sample Superstore Dataset](data/Sample%20-%20Superstore.csv) – Source dataset used for the analysis
+
 ## Data Preparation
 
 The dataset was cleaned and prepared using Power Query.
