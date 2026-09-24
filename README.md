@@ -92,6 +92,20 @@ sales-profitability-analytics/
 │   └── Sales & Profitability Analytics Dashboard.pbix
 ├── dashboard-preview.png
 └── README.md
+
+## Skills Demonstrated
+
+- Data cleaning and transformation
+- Exploratory data analysis
+- Excel data analysis
+- Power Query
+- Power BI dashboard development
+- DAX measures
+- Data visualization
+- KPI development
+- Business performance analysis
+- Profitability analysis
+
 ```
 
 ## Author
